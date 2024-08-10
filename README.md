@@ -1,8 +1,4 @@
-Certainly! Here's an elongated and more detailed version of the GitHub repository description:
-
----
-
-# Sentiment Analysis with Naive Bayes
+# Sentiment Analysis With Machine Learning / AI Algorithms
 
 This repository showcases a comprehensive project focused on sentiment analysis using the IMDB movie review dataset. The goal of the project is to classify movie reviews as either positive or negative based on their textual content. The classification model is built using a Naive Bayes algorithm, implemented with the help of the `scikit-learn` library in Python.
 
@@ -62,8 +58,8 @@ pip install -r requirements.txt
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/sentiment-analysis-naive-bayes.git
-    cd sentiment-analysis-naive-bayes
+    git clone https://github.com/yourusername/Sentiment-Analysis.git
+    cd sentiment-analysis
     ```
 
 2. **Run the Script**:
@@ -92,7 +88,9 @@ This project provides a strong foundation for further exploration and developmen
 
 ## Contributing
 
-Contributions to this project are highly encouraged. Whether you want to improve the existing model, add new features, or simply fix bugs, feel free to fork the repository, make your changes, and submit a pull request.
+The accuracy of the project is lower than expected, I'd highly appreciate any helps in improving that for me.
+
+Other contributions to this project are highly encouraged as well. Whether you want to improve the existing model, add new features, or simply fix bugs, feel free to fork the repository, make your changes, and submit a pull request.
 
 Please ensure that your contributions are well-documented and that you follow best practices for coding and testing.
 
@@ -104,7 +102,3 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 - **Stanford AI Lab**: For providing the IMDB Large Movie Review Dataset.
 - **Scikit-learn Developers**: For creating a powerful and easy-to-use library for machine learning.
-
----
-
-This expanded description provides a comprehensive overview of the project, guiding potential users and contributors through its purpose, structure, and potential improvements. It also emphasizes the practical applications and future possibilities for those interested in building upon this work.
